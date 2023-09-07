@@ -3,7 +3,7 @@ body {
     color: white;
     margin: 0px;
     padding: 0px;
-    background: url('/gym2.jpg') no-repeat ;
+    background: url('gym2.jpg') no-repeat ;
     /* background: url('/gym3.jpg') no-repeat ; */
     background-size: cover ;
 }
